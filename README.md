@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alioner1
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Gmail: alionerbusiness@gmail.com
 
 <!---
